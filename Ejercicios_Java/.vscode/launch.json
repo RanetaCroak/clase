@@ -1,0 +1,707 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ej20",
+            "request": "launch",
+            "mainClass": "Java_Strings1.ej20",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej19",
+            "request": "launch",
+            "mainClass": "Java_Strings1.ej19",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej18",
+            "request": "launch",
+            "mainClass": "Java_Strings1.ej18",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej17",
+            "request": "launch",
+            "mainClass": "Java_Strings1.ej17",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej16",
+            "request": "launch",
+            "mainClass": "Java_Strings1.ej16",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej15",
+            "request": "launch",
+            "mainClass": "Java_Strings1.ej15",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej1",
+            "request": "launch",
+            "mainClass": "Java1_conceptos_basicos.ej1",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej10",
+            "request": "launch",
+            "mainClass": "Java1_conceptos_basicos.ej10",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej11",
+            "request": "launch",
+            "mainClass": "Java1_conceptos_basicos.ej11",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej12",
+            "request": "launch",
+            "mainClass": "Java1_conceptos_basicos.ej12",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej13",
+            "request": "launch",
+            "mainClass": "Java1_conceptos_basicos.ej13",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej14",
+            "request": "launch",
+            "mainClass": "Java1_conceptos_basicos.ej14",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej15",
+            "request": "launch",
+            "mainClass": "Java1_conceptos_basicos.ej15",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej16",
+            "request": "launch",
+            "mainClass": "Java1_conceptos_basicos.ej16",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej17",
+            "request": "launch",
+            "mainClass": "Java1_conceptos_basicos.ej17",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej18",
+            "request": "launch",
+            "mainClass": "Java1_conceptos_basicos.ej18",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej19",
+            "request": "launch",
+            "mainClass": "Java1_conceptos_basicos.ej19",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej2",
+            "request": "launch",
+            "mainClass": "Java1_conceptos_basicos.ej2",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej20",
+            "request": "launch",
+            "mainClass": "Java1_conceptos_basicos.ej20",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej21",
+            "request": "launch",
+            "mainClass": "Java1_conceptos_basicos.ej21",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej22",
+            "request": "launch",
+            "mainClass": "Java1_conceptos_basicos.ej22",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej23",
+            "request": "launch",
+            "mainClass": "Java1_conceptos_basicos.ej23",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej3",
+            "request": "launch",
+            "mainClass": "Java1_conceptos_basicos.ej3",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej4",
+            "request": "launch",
+            "mainClass": "Java1_conceptos_basicos.ej4",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej5",
+            "request": "launch",
+            "mainClass": "Java1_conceptos_basicos.ej5",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej6",
+            "request": "launch",
+            "mainClass": "Java1_conceptos_basicos.ej6",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej7",
+            "request": "launch",
+            "mainClass": "Java1_conceptos_basicos.ej7",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej8",
+            "request": "launch",
+            "mainClass": "Java1_conceptos_basicos.ej8",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej9",
+            "request": "launch",
+            "mainClass": "Java1_conceptos_basicos.ej9",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej13(1)",
+            "request": "launch",
+            "mainClass": "Java2_Condicionales.ej13",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej14(1)",
+            "request": "launch",
+            "mainClass": "Java2_Condicionales.ej14",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej15(1)",
+            "request": "launch",
+            "mainClass": "Java2_Condicionales.ej15",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej16(1)",
+            "request": "launch",
+            "mainClass": "Java2_Condicionales.ej16",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej17(1)",
+            "request": "launch",
+            "mainClass": "Java2_Condicionales.ej17",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej18(1)",
+            "request": "launch",
+            "mainClass": "Java2_Condicionales.ej18",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej19(1)",
+            "request": "launch",
+            "mainClass": "Java2_Condicionales.ej19",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej20(1)",
+            "request": "launch",
+            "mainClass": "Java2_Condicionales.ej20",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej11(1)",
+            "request": "launch",
+            "mainClass": "Java2_conceptos_basicos.ej11",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej12(1)",
+            "request": "launch",
+            "mainClass": "Java2_conceptos_basicos.ej12",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej13(2)",
+            "request": "launch",
+            "mainClass": "Java2_conceptos_basicos.ej13",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej14(2)",
+            "request": "launch",
+            "mainClass": "Java2_conceptos_basicos.ej14",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej15(2)",
+            "request": "launch",
+            "mainClass": "Java2_conceptos_basicos.ej15",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej16(2)",
+            "request": "launch",
+            "mainClass": "Java2_conceptos_basicos.ej16",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej17(2)",
+            "request": "launch",
+            "mainClass": "Java2_conceptos_basicos.ej17",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej18(2)",
+            "request": "launch",
+            "mainClass": "Java2_conceptos_basicos.ej18",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej19(2)",
+            "request": "launch",
+            "mainClass": "Java2_conceptos_basicos.ej19",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej20(2)",
+            "request": "launch",
+            "mainClass": "Java2_conceptos_basicos.ej20",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej21(1)",
+            "request": "launch",
+            "mainClass": "Java2_conceptos_basicos.ej21",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej22(1)",
+            "request": "launch",
+            "mainClass": "Java2_conceptos_basicos.ej22",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej1(1)",
+            "request": "launch",
+            "mainClass": "Java_Bucles.ej1",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej10(1)",
+            "request": "launch",
+            "mainClass": "Java_Bucles.ej10",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej11(2)",
+            "request": "launch",
+            "mainClass": "Java_Bucles.ej11",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej12(2)",
+            "request": "launch",
+            "mainClass": "Java_Bucles.ej12",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej13(3)",
+            "request": "launch",
+            "mainClass": "Java_Bucles.ej13",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej14(3)",
+            "request": "launch",
+            "mainClass": "Java_Bucles.ej14",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej15(3)",
+            "request": "launch",
+            "mainClass": "Java_Bucles.ej15",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej2(1)",
+            "request": "launch",
+            "mainClass": "Java_Bucles.ej2",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej3(1)",
+            "request": "launch",
+            "mainClass": "Java_Bucles.ej3",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej4(1)",
+            "request": "launch",
+            "mainClass": "Java_Bucles.ej4",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej5(1)",
+            "request": "launch",
+            "mainClass": "Java_Bucles.ej5",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej6(1)",
+            "request": "launch",
+            "mainClass": "Java_Bucles.ej6",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej7(1)",
+            "request": "launch",
+            "mainClass": "Java_Bucles.ej7",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej8(1)",
+            "request": "launch",
+            "mainClass": "Java_Bucles.ej8",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej9(1)",
+            "request": "launch",
+            "mainClass": "Java_Bucles.ej9",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej1(2)",
+            "request": "launch",
+            "mainClass": "Java_Condicionales.ej1",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej10(2)",
+            "request": "launch",
+            "mainClass": "Java_Condicionales.ej10",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej11(3)",
+            "request": "launch",
+            "mainClass": "Java_Condicionales.ej11",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej12(3)",
+            "request": "launch",
+            "mainClass": "Java_Condicionales.ej12",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej13(4)",
+            "request": "launch",
+            "mainClass": "Java_Condicionales.ej13",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej2(2)",
+            "request": "launch",
+            "mainClass": "Java_Condicionales.ej2",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej3(2)",
+            "request": "launch",
+            "mainClass": "Java_Condicionales.ej3",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej4(2)",
+            "request": "launch",
+            "mainClass": "Java_Condicionales.ej4",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej5(2)",
+            "request": "launch",
+            "mainClass": "Java_Condicionales.ej5",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej6(2)",
+            "request": "launch",
+            "mainClass": "Java_Condicionales.ej6",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej7(2)",
+            "request": "launch",
+            "mainClass": "Java_Condicionales.ej7",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej8(2)",
+            "request": "launch",
+            "mainClass": "Java_Condicionales.ej8",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej9(2)",
+            "request": "launch",
+            "mainClass": "Java_Condicionales.ej9",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej1(3)",
+            "request": "launch",
+            "mainClass": "Java_Strings1.ej1",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej10(3)",
+            "request": "launch",
+            "mainClass": "Java_Strings1.ej10",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej12(4)",
+            "request": "launch",
+            "mainClass": "Java_Strings1.ej12",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej13(5)",
+            "request": "launch",
+            "mainClass": "Java_Strings1.ej13",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej2(3)",
+            "request": "launch",
+            "mainClass": "Java_Strings1.ej2",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej3(3)",
+            "request": "launch",
+            "mainClass": "Java_Strings1.ej3",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej4(3)",
+            "request": "launch",
+            "mainClass": "Java_Strings1.ej4",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej5(3)",
+            "request": "launch",
+            "mainClass": "Java_Strings1.ej5",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej6(3)",
+            "request": "launch",
+            "mainClass": "Java_Strings1.ej6",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej7(3)",
+            "request": "launch",
+            "mainClass": "Java_Strings1.ej7",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej8(3)",
+            "request": "launch",
+            "mainClass": "Java_Strings1.ej8",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej9(3)",
+            "request": "launch",
+            "mainClass": "Java_Strings1.ej9",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej16(3)",
+            "request": "launch",
+            "mainClass": "ej16",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej17(3)",
+            "request": "launch",
+            "mainClass": "ej17",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej18(3)",
+            "request": "launch",
+            "mainClass": "ej18",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej19(3)",
+            "request": "launch",
+            "mainClass": "ej19",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej20(3)",
+            "request": "launch",
+            "mainClass": "ej20",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej21(2)",
+            "request": "launch",
+            "mainClass": "ej21",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej22(2)",
+            "request": "launch",
+            "mainClass": "ej22",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej23(1)",
+            "request": "launch",
+            "mainClass": "ej23",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej24",
+            "request": "launch",
+            "mainClass": "ej24",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej25",
+            "request": "launch",
+            "mainClass": "ej25",
+            "projectName": "Ejercicios_Java_f43cb6b2"
+        }
+    ]
+}
