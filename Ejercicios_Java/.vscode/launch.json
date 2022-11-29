@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ej16",
+            "request": "launch",
+            "mainClass": "Java_Strings1.ej16",
+            "projectName": "Ejercicios_Java_39328fb4"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej20",
+            "request": "launch",
+            "mainClass": "Java_Strings1.ej20",
+            "projectName": "Ejercicios_Java_39328fb4"
+        },
+        {
+            "type": "java",
             "name": "Launch ej20",
             "request": "launch",
             "mainClass": "Java_Strings1.ej20",

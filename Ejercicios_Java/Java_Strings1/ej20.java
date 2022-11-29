@@ -13,30 +13,25 @@ public class ej20 {
         System.out.println("Introduce el número de posiciones de salto");
         int codigo = sc.nextInt();
 
+        sc.close();
+
         char letraFinal = 'z', letraPrimera = 'a'; // Inicio y fin del abecedario
 
         for (int i = 0; i < 2; i++) { // Bucle para MAYUS y minus
-            
-            for (int j = 0; j < frase.length(); j++) {
-                /*
-                    TODO
 
-                    [ ] Comprobar si el caracter es una letra
-                    [!] Comprobar bugs al pasar al segundo bucle
-                 */
-                
-                if ((frase.charAt(j) + codigo) > letraFinal) {
-                    frase = frase.substring(0, j) // principio de la frase
-                    + (char) (letraPrimera+(letraFinal-codigo)) // char encriptado
-                    + frase.substring(j+1); // resto de la frase
-                } else {
-                    frase = frase.substring(0, j) // principio de la frase
-                    + (char) (frase.charAt(j)+codigo) // char encriptado
-                    + frase.substring(j+1); // resto de la frase
+            for (int j = 0; j < frase.length(); j++) { // Recorrer la frase
+
+                for (int j2 = 0; j2 < codigo; j2++) { // Desplazamientos de los caracteres
+                    if (frase.charAt(j) >= letraPrimera && frase.charAt(j) <= letraFinal) {
+
+                        frase = frase.substring(0, j) // principio de la frase
+                                + ((frase.charAt(j) + 1) > letraFinal ? letraPrimera : (char) ((frase.charAt(j)) + 1)) // char encriptado
+                                + frase.substring(j + 1); // resto de la frase
+                    }
                 }
-                letraPrimera = 'A'; // Paso a mayúsculas
-                letraFinal = 'Z'; 
-            }
+            } 
+            letraPrimera = 'A'; // Paso a mayúsculas
+            letraFinal = 'Z';
         }
         System.out.println("Texto encriptado");
         System.out.println(frase);
