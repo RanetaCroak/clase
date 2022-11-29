@@ -43,5 +43,4 @@ public class ej16 {
         System.out.println("El número decimal "+n+" en octetos es "+octetos+" y consta de "+numeroDigitos+" dígitos");
         sc.close();
     }
-
 }
