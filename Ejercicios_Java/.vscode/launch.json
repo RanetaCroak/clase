@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ej19",
+            "request": "launch",
+            "mainClass": "Java_Strings1.ej19",
+            "projectName": "Ejercicios_Java_39328fb4"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej8",
+            "request": "launch",
+            "mainClass": "Java_Strings1.ej8",
+            "projectName": "Ejercicios_Java_39328fb4"
+        },
+        {
+            "type": "java",
+            "name": "Launch bucles",
+            "request": "launch",
+            "mainClass": "Proves.bucles",
+            "projectName": "Ejercicios_Java_39328fb4"
+        },
+        {
+            "type": "java",
+            "name": "Launch mathrandom",
+            "request": "launch",
+            "mainClass": "Proves.mathrandom",
+            "projectName": "Ejercicios_Java_39328fb4"
+        },
+        {
+            "type": "java",
+            "name": "Launch cuadrado",
+            "request": "launch",
+            "mainClass": "Proves.Recursividad.cuadrado",
+            "projectName": "Ejercicios_Java_39328fb4"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej12",
+            "request": "launch",
+            "mainClass": "Java_Strings1.ej12",
+            "projectName": "Ejercicios_Java_39328fb4"
+        },
+        {
+            "type": "java",
             "name": "Launch ej16",
             "request": "launch",
             "mainClass": "Java_Strings1.ej16",

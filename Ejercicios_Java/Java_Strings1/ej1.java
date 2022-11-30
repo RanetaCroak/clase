@@ -6,8 +6,9 @@ public class ej1 {
         double suma = 0;
         double[] numeros = new double[50];
         for (int i = 0; i < numeros.length; i++) {
-            suma+=numeros[i]=Math.random()*50+1;
+            suma += numeros[i] = Math.random()*50+1;
         }
+
         double media = suma/numeros.length; 
         System.out.println("\nLa media es "+media);
         System.out.println("\nEstos son los valores por encima de la media\n");
