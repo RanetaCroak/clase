@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ej4",
+            "request": "launch",
+            "mainClass": "Java3_Metodos.ej4",
+            "projectName": "Ejercicios_Java_39328fb4"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej3",
+            "request": "launch",
+            "mainClass": "Java3_Metodos.ej3",
+            "projectName": "Ejercicios_Java_39328fb4"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej2",
+            "request": "launch",
+            "mainClass": "Java3_Metodos.ej2",
+            "projectName": "Ejercicios_Java_39328fb4"
+        },
+        {
+            "type": "java",
+            "name": "Launch ej1",
+            "request": "launch",
+            "mainClass": "Java3_Metodos.ej1",
+            "projectName": "Ejercicios_Java_39328fb4"
+        },
+        {
+            "type": "java",
             "name": "Launch ej19",
             "request": "launch",
             "mainClass": "Java_Strings1.ej19",
